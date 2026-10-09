@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "MagicalSmp.volyxhost.org",
-    "port": ,
+    "port": 19141,
     "version": "1.20.1",
     "try-creative": false
   },
