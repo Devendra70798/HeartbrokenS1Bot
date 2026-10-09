@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HeartBrokenSeason1.aternos.me",
-    "port": 36737,
+    "ip": "MagicalSmp.volyxhost.org",
+    "port": 19141,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
