@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "vishu",
+    "username": "HeartBrokenBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MagicalSmp.volyxhost.org",
-    "port": 19141,
+    "ip": "HeartBrokenSeason1.aternos.me",
+    "port": 36737,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "vishu1234"
+      "password": "HeartBroken"
     },
     "anti-afk": {
       "enabled": true,
