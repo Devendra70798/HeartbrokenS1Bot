@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HeartBrokenSeason1.aternos.me",
-    "port": 36737,
+    "ip": "pranixzone.aternos.me",
+    "port": 43504,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "HeartBroken"
+      "password": "PerzaanLive"
     },
     "anti-afk": {
       "enabled": true,
