@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pranixzone.aternos.me",
-    "port": 43504,
+    "ip": "heartbroken.mcsh.gg",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
